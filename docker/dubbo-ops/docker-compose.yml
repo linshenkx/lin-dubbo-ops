@@ -1,0 +1,6 @@
+
+admin:
+ build: ./admin
+ ports:
+   - 7071:9090
+
